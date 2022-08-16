@@ -1,2 +1,2 @@
-# problem-Solving-of-dart-from-1-to-10
-Here I have solved some problem on nDart Language. I really enjoy to solve the problem. 
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
